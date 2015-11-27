@@ -1,3 +1,5 @@
+// Lyanna Ho's simple text-based Hangman program
+
 import java.util.*;
 
 public class BetterHangman
